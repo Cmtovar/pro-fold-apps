@@ -9,3 +9,9 @@
 .cxx
 local.properties
 /app/build
+
+# Subdirectory apps (have their own repos)
+my-fold-pods/
+
+# Local descriptions
+descriptions/
